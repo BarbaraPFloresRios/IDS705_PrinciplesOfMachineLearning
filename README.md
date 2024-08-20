@@ -5,3 +5,5 @@ Assigments
 2. [Supervised Machine Learning Fundamentals](https://github.com/BarbaraPFloresRios/IDS705_PrinciplesOfMachineLearning/blob/main/Assignment_2_SupervisedMachineLearningFundamentals/Assignment_2.ipynb)
 3. [Supervised Learning Model Training And Evaluation](https://github.com/BarbaraPFloresRios/IDS705_PrinciplesOfMachineLearning/blob/main/Assignment_3_SupervisedLearning_ModelTrainingAndEvaluation/Assignment_3.ipynb)
 4. [Neural Networks](https://github.com/BarbaraPFloresRios/IDS705_PrinciplesOfMachineLearning/blob/main/Assignment_4_NeuralNetworks/Assignment_4.ipynb)
+5. [Kaggle Competition and UnsupervisedLearning](https://github.com/BarbaraPFloresRios/IDS705_PrinciplesOfMachineLearning/blob/main/Assignment_5_KaggleCompetition_and_UnsupervisedLearning/Assignment_5.ipynb)}
+6. 
